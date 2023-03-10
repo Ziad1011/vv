@@ -1,0 +1,34 @@
+#name{
+    width: 400px;
+}
+#email{
+    width: 250px;
+}
+#phone{
+    width: 250px;
+}
+#inputState{
+    width: 250px;
+}
+#birthday{
+    width: 250px;
+}
+#location{
+    width: 400px;
+}
+#payment{
+    width: 400px;
+}
+#password{
+    width: 250px;
+}
+#confirm{
+    width: 250px;
+}
+span{
+    color: aqua;
+}
+#submit{
+    width: 450px;
+}
+
